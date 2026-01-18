@@ -81,6 +81,7 @@ class LLMService:
         Return ONLY the city name. If no city is found, return nothing.
         Example: "What's the weather in London?" -> London
         Example: "Forecast for Paris, France" -> Paris
+        Example: "What's the weather like in New York?" -> New York
         """
         
         prompt = ChatPromptTemplate.from_messages([
