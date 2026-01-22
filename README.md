@@ -1,4 +1,4 @@
-# AI Pipeline
+# WeatherAPI AI Pipeline
 
 A robust, agentic AI pipeline demonstrating Retrieval-Augmented Generation (RAG) and API integration using LangChain, LangGraph, and Streamlit.
 
